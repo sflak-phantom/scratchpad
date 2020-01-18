@@ -1,7 +1,7 @@
 """
 another_one.py
 
-desc
+remote update desc
 """
 
 def another_one(**kwargs):
