@@ -1,7 +1,7 @@
 """
 scratch_func.py
 
-wowee 2 electric boogaloo
+wowee editing the draft
 """
 
 def scratch_func(**kwargs):
