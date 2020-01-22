@@ -1,7 +1,7 @@
 """
 scratch_func.py
 
-wowee editing the draft
+wowee editing the draft again
 """
 
 def scratch_func(**kwargs):
@@ -10,6 +10,7 @@ def scratch_func(**kwargs):
         
     """
     ############################ Custom Code Goes Below This Line #################################
+
     import json
     
     outputs = {}
